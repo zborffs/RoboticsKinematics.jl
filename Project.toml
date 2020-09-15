@@ -1,0 +1,13 @@
+name = "RoboticsKinematics"
+uuid = "38c0161c-47fe-4076-a78f-087ce5f21d66"
+authors = ["Zach Bortoff <zbortoff@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
