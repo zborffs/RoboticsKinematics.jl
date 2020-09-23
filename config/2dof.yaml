@@ -1,0 +1,3 @@
+base: {order: 1, length: 12.0, orientation: "parallel"}
+joint1: {order: 2, length: 6.0, orientation: "perpendicular"}
+joint2: {order: 3, length: 3.0, orientation: "perpendicular"}

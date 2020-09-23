@@ -3,6 +3,16 @@ uuid = "38c0161c-47fe-4076-a78f-087ce5f21d66"
 authors = ["Zach Bortoff <zbortoff@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+CoordinateTransformations = "150eb455-5306-5404-9cee-2592286d6298"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Rotations = "6038ab10-8711-5258-84ad-4b1120ba62dc"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+UnitfulAngles = "6fb2a4bd-7999-5318-a3b2-8ad61056cd98"
+UnitfulAstro = "6112ee07-acf9-5e0f-b108-d242c714bf9f"
+YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
+
 [compat]
 julia = "1.5"
 
