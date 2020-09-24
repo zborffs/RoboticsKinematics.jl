@@ -14,6 +14,7 @@ UnitfulAstro = "6112ee07-acf9-5e0f-b108-d242c714bf9f"
 YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 
 [compat]
+YAML = "0.4"
 julia = "1.5"
 
 [extras]
